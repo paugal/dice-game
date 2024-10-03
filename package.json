@@ -1,6 +1,7 @@
 {
   "name": "dice-game",
   "version": "0.1.0",
+  "homepage": "https://paugal.github.io/dice-game/",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
